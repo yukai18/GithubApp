@@ -13,7 +13,3 @@ Before you can start using this project, please replace "Github Personal Token" 
 - Search function for the user's list
 
 - Shimmering loading UI
-
-- 
-
-
